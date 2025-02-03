@@ -1,0 +1,26 @@
+- key: Name
+  value: Joshua Hunsberger
+- key: Work
+  value: Staff Software Engineer @ IGS Solar/IGS Energy
+- key: Technologies
+  value:
+    - C#
+    - .NET
+    - SQL Server
+    - Azure
+    - RabbitMQ
+    - GraphQL
+    - React
+    - TypeScript
+    - Kafka
+    - Snowflake
+  typed: true
+- key: Contact
+  value:
+    - joshua at hunsberger.co
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/joshuahunsberger
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/jmhunsberger

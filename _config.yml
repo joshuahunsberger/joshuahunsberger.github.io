@@ -1,0 +1,20 @@
+title: Joshua Hunsberger
+description: Personal Website for Joshua Hunsberger
+baseurl: /
+url: https://joshuahunsberger.github.io
+
+theme: hacked-jekyll
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+
+color_bg: gray-9
+color_punct: gray-0
+color_key: green-3
+color_value: blue-2
+
+lowercase: keys
