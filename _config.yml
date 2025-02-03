@@ -3,11 +3,12 @@ description: Personal Website for Joshua Hunsberger
 baseurl: /
 url: https://joshuahunsberger.github.io
 
-theme: hacked-jekyll
+remote_theme: https://github.com/piazzai/hacked-jekyll
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 sass:
   sourcemap: never
